@@ -1,0 +1,5265 @@
++ read start range
+++ find_mapping seed 3139431799 3189630003
+++ local source=seed
+++ local start=3139431799
+++ local end=3189630003
++++ grep -Eo 'seed-to-[[:alpha:]]+'
+++ local map=seed-to-soil
+++ [[ -z seed-to-soil ]]
++++ cut -d- -f3
+++ local destination=soil
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 69797365 ]]
+++ local end_map=69797364
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 36566707 ]]
+++ local end_map=106364071
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 58653718 ]]
+++ local end_map=165017789
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 44262617 ]]
+++ local end_map=209280406
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 60205478 ]]
+++ local end_map=269485884
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 88937774 ]]
+++ local end_map=358423658
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 126030444 ]]
+++ local end_map=484454102
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 121810618 ]]
+++ local end_map=606264720
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 196539291 ]]
+++ local end_map=802804011
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 6283366 ]]
+++ local end_map=809087377
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 268751759 ]]
+++ local end_map=1077839136
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 21276761 ]]
+++ local end_map=1099115897
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 43528687 ]]
+++ local end_map=1142644584
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 70452661 ]]
+++ local end_map=1213097245
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 188812728 ]]
+++ local end_map=1401909973
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 23067952 ]]
+++ local end_map=1424977925
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 190757551 ]]
+++ local end_map=1615735476
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 139190145 ]]
+++ local end_map=1754925621
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 66697504 ]]
+++ local end_map=1821623125
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 241567873 ]]
+++ local end_map=2135952034
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 86025489 ]]
+++ local end_map=2221977523
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 77230393 ]]
+++ local end_map=2299207916
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 62031113 ]]
+++ local end_map=2361239029
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 66366962 ]]
+++ local end_map=2427605991
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 153737109 ]]
+++ local end_map=2581343100
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 165949051 ]]
+++ local end_map=2747292151
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26437233 ]]
+++ local end_map=2773729384
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 10470414 ]]
+++ local end_map=2784199798
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26296576 ]]
+++ local end_map=2810496374
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 39356837 ]]
+++ local end_map=2849853211
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 361877006 ]]
+++ local end_map=3211730217
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=289578587
+++ local new_start=4129864682
+++ ((  end <= end_map  ))
+++ local diff2=50198204
+++ local new_end=4180062886
+++ finished=true
+++ find_mapping soil 4129864682 4180062886 seed 3139431799 3189630003
+++ local source=soil
+++ local start=4129864682
+++ local end=4180062886
++++ grep -Eo 'soil-to-[[:alpha:]]+'
+++ local map=soil-to-fertilizer
+++ [[ -z soil-to-fertilizer ]]
++++ cut -d- -f3
+++ local destination=fertilizer
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 226093219 ]]
+++ local end_map=226093218
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 21270249 ]]
+++ local end_map=247363467
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 130653542 ]]
+++ local end_map=378017009
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 21525470 ]]
+++ local end_map=399542479
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 164753481 ]]
+++ local end_map=564295960
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 163009674 ]]
+++ local end_map=727305634
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 169196919 ]]
+++ local end_map=896502553
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 10335567 ]]
+++ local end_map=906838120
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 300996909 ]]
+++ local end_map=1207835029
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 120315882 ]]
+++ local end_map=1328150911
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 51158945 ]]
+++ local end_map=1379309856
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 42097049 ]]
+++ local end_map=1421406905
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 171284482 ]]
+++ local end_map=1592691387
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 500989478 ]]
+++ local end_map=2093680865
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 164092891 ]]
+++ local end_map=2263882657
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 88575441 ]]
+++ local end_map=2352458098
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 28057201 ]]
+++ local end_map=2380515299
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 218129381 ]]
+++ local end_map=2598644680
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 151074848 ]]
+++ local end_map=2749719528
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 135349925 ]]
+++ local end_map=2885069453
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 1000601927 ]]
+++ local end_map=3885671380
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 112584953 ]]
+++ local end_map=3998256333
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 14950546 ]]
+++ local end_map=4013206879
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 21508334 ]]
+++ local end_map=4034715213
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 260252082 ]]
+++ local end_map=4294967295
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=95149468
+++ local new_start=3676555967
+++ ((  end <= end_map  ))
+++ local diff2=50198204
+++ local new_end=3726754171
+++ finished=true
+++ find_mapping fertilizer 3676555967 3726754171 soil 4129864682 4180062886 seed 3139431799 3189630003
+++ local source=fertilizer
+++ local start=3676555967
+++ local end=3726754171
++++ grep -Eo 'fertilizer-to-[[:alpha:]]+'
+++ local map=fertilizer-to-water
+++ [[ -z fertilizer-to-water ]]
++++ cut -d- -f3
+++ local destination=water
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 243114563 ]]
+++ local end_map=243114562
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 86649352 ]]
+++ local end_map=329763914
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 34129824 ]]
+++ local end_map=363893738
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 17820490 ]]
+++ local end_map=381714228
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 59608415 ]]
+++ local end_map=441322643
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 204058157 ]]
+++ local end_map=645380800
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 22435077 ]]
+++ local end_map=667815877
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 92760141 ]]
+++ local end_map=760576018
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 12324751 ]]
+++ local end_map=772900769
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 137026460 ]]
+++ local end_map=909927229
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 105011330 ]]
+++ local end_map=1014938559
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 60667719 ]]
+++ local end_map=1075606278
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 100417305 ]]
+++ local end_map=1176023583
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 27579684 ]]
+++ local end_map=1203603267
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 189439550 ]]
+++ local end_map=1393042817
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 178490714 ]]
+++ local end_map=1571533531
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 62618713 ]]
+++ local end_map=1634152244
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 106953568 ]]
+++ local end_map=1741105812
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 32320840 ]]
+++ local end_map=1773426652
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 12420518 ]]
+++ local end_map=1785847170
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 4891372 ]]
+++ local end_map=1790738542
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 33346902 ]]
+++ local end_map=1824085444
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 20243676 ]]
+++ local end_map=1844329120
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26767367 ]]
+++ local end_map=1871096487
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 471560375 ]]
+++ local end_map=2342656862
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 59182412 ]]
+++ local end_map=2401839274
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 72374872 ]]
+++ local end_map=2474214146
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 51290967 ]]
+++ local end_map=2525505113
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 127617871 ]]
+++ local end_map=2701101997
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 225220022 ]]
+++ local end_map=2926322019
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 5981819 ]]
+++ local end_map=2932303838
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 130605239 ]]
+++ local end_map=3062909077
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 75538793 ]]
+++ local end_map=3138447870
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 156185660 ]]
+++ local end_map=3294633530
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 262968471 ]]
+++ local end_map=3557602001
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 204061128 ]]
+++ local end_map=3761663129
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=118953965
+++ local new_start=4115241495
+++ ((  end <= end_map  ))
+++ local diff2=50198204
+++ local new_end=4165439699
+++ finished=true
+++ find_mapping water 4115241495 4165439699 fertilizer 3676555967 3726754171 soil 4129864682 4180062886 seed 3139431799 3189630003
+++ local source=water
+++ local start=4115241495
+++ local end=4165439699
++++ grep -Eo 'water-to-[[:alpha:]]+'
+++ local map=water-to-light
+++ [[ -z water-to-light ]]
++++ cut -d- -f3
+++ local destination=light
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 107380774 ]]
+++ local end_map=107380773
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 202029546 ]]
+++ local end_map=309410319
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 100332146 ]]
+++ local end_map=409742465
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 55552135 ]]
+++ local end_map=465294600
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 176895013 ]]
+++ local end_map=642189613
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 64567949 ]]
+++ local end_map=706757562
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 45942854 ]]
+++ local end_map=752700416
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 6530680 ]]
+++ local end_map=759231096
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26724064 ]]
+++ local end_map=785955160
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 52302440 ]]
+++ local end_map=838257600
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 25782663 ]]
+++ local end_map=864040263
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 58789004 ]]
+++ local end_map=922829267
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 123372939 ]]
+++ local end_map=1046202206
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35444248 ]]
+++ local end_map=1081646454
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 19946665 ]]
+++ local end_map=1101593119
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 28493371 ]]
+++ local end_map=1130086490
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 143713916 ]]
+++ local end_map=1273800406
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 84674733 ]]
+++ local end_map=1358475139
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 29661777 ]]
+++ local end_map=1388136916
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 82436785 ]]
+++ local end_map=1470573701
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 75076585 ]]
+++ local end_map=1545650286
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 88098888 ]]
+++ local end_map=1633749174
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 71376364 ]]
+++ local end_map=1705125538
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 116637671 ]]
+++ local end_map=1821763209
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 100196810 ]]
+++ local end_map=1921960019
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 28343714 ]]
+++ local end_map=1950303733
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 147477502 ]]
+++ local end_map=2097781235
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 292450760 ]]
+++ local end_map=2390231995
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26561329 ]]
+++ local end_map=2416793324
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 134492301 ]]
+++ local end_map=2551285625
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 37284381 ]]
+++ local end_map=2588570006
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 102241079 ]]
+++ local end_map=2690811085
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 142699904 ]]
+++ local end_map=2833510989
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 187908810 ]]
+++ local end_map=3021419799
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 175807670 ]]
+++ local end_map=3197227469
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 31933095 ]]
+++ local end_map=3229160564
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 10342236 ]]
+++ local end_map=3239502800
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 94242072 ]]
+++ local end_map=3333744872
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 74978759 ]]
+++ local end_map=3408723631
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 23185575 ]]
+++ local end_map=3473284227
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 37900570 ]]
+++ local end_map=3511184797
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 41677550 ]]
+++ local end_map=3552862347
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 284822769 ]]
+++ local end_map=3837685116
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 243283587 ]]
+++ local end_map=4080968703
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 155844998 ]]
+++ local end_map=4236813701
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=34272791
+++ local new_start=3522272014
+++ ((  end <= end_map  ))
+++ local diff2=50198204
+++ local new_end=3572470218
+++ finished=true
+++ find_mapping light 3522272014 3572470218 water 4115241495 4165439699 fertilizer 3676555967 3726754171 soil 4129864682 4180062886 seed 3139431799 3189630003
+++ local source=light
+++ local start=3522272014
+++ local end=3572470218
++++ grep -Eo 'light-to-[[:alpha:]]+'
+++ local map=light-to-temperature
+++ [[ -z light-to-temperature ]]
++++ cut -d- -f3
+++ local destination=temperature
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 353313230 ]]
+++ local end_map=353313229
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 376619264 ]]
+++ local end_map=729932493
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 461025826 ]]
+++ local end_map=1190958319
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69004583 ]]
+++ local end_map=1259962902
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 494809338 ]]
+++ local end_map=1754772240
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 373416033 ]]
+++ local end_map=2128188273
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 62837120 ]]
+++ local end_map=2191025393
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35456664 ]]
+++ local end_map=2322419909
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 137121725 ]]
+++ local end_map=2459541634
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 298395440 ]]
+++ local end_map=2757937074
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 227055902 ]]
+++ local end_map=2984992976
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69188559 ]]
+++ local end_map=3054181535
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 321275112 ]]
+++ local end_map=3375456647
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 91164221 ]]
+++ local end_map=3466620868
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 376755291 ]]
+++ local end_map=3843376159
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=55651145
+++ local new_start=3550997804
+++ ((  end <= end_map  ))
+++ local diff2=50198204
+++ local new_end=3601196008
+++ finished=true
+++ find_mapping temperature 3550997804 3601196008 light 3522272014 3572470218 water 4115241495 4165439699 fertilizer 3676555967 3726754171 soil 4129864682 4180062886 seed 3139431799 3189630003
+++ local source=temperature
+++ local start=3550997804
+++ local end=3601196008
++++ grep -Eo 'temperature-to-[[:alpha:]]+'
+++ local map=temperature-to-humidity
+++ [[ -z temperature-to-humidity ]]
++++ cut -d- -f3
+++ local destination=humidity
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 278789291 ]]
+++ local end_map=278789290
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26953293 ]]
+++ local end_map=305742583
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 20602508 ]]
+++ local end_map=326345091
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 152947914 ]]
+++ local end_map=479293005
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 226560784 ]]
+++ local end_map=705853789
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 531885699 ]]
+++ local end_map=1237739488
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 233292183 ]]
+++ local end_map=1471031671
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 367564898 ]]
+++ local end_map=1838596569
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69663144 ]]
+++ local end_map=1908259713
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 96923792 ]]
+++ local end_map=2597709261
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 261363191 ]]
+++ local end_map=2859072452
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 433151118 ]]
+++ local end_map=3292223570
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 113802375 ]]
+++ local end_map=3406025945
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 214996780 ]]
+++ local end_map=3621022725
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=144971858
+++ local new_start=4111139999
+++ ((  end <= end_map  ))
+++ local diff2=50198204
+++ local new_end=4161338203
+++ finished=true
+++ find_mapping humidity 4111139999 4161338203 temperature 3550997804 3601196008 light 3522272014 3572470218 water 4115241495 4165439699 fertilizer 3676555967 3726754171 soil 4129864682 4180062886 seed 3139431799 3189630003
+++ local source=humidity
+++ local start=4111139999
+++ local end=4161338203
++++ grep -Eo 'humidity-to-[[:alpha:]]+'
+++ local map=humidity-to-location
+++ [[ -z humidity-to-location ]]
++++ cut -d- -f3
+++ local destination=location
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 561533 ]]
+++ local end_map=561532
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 922927950 ]]
+++ local end_map=923489482
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 565631070 ]]
+++ local end_map=1489120552
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277858250 ]]
+++ local end_map=1766978802
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 483883727 ]]
+++ local end_map=2250862529
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 61410922 ]]
+++ local end_map=2312273451
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277871332 ]]
+++ local end_map=2590144783
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 734802140 ]]
+++ local end_map=3324946923
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 364728727 ]]
+++ local end_map=3689675650
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35197452 ]]
+++ local end_map=3724873102
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 140154003 ]]
+++ local end_map=3865027105
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 240221283 ]]
+++ local end_map=4105248388
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ false
+++ find_mapping location 4111139999 4161338203 humidity 4111139999 4161338203 temperature 3550997804 3601196008 light 3522272014 3572470218 water 4115241495 4165439699 fertilizer 3676555967 3726754171 soil 4129864682 4180062886 seed 3139431799 3189630003
+++ local source=location
+++ local start=4111139999
+++ local end=4161338203
++++ grep -Eo 'location-to-[[:alpha:]]+'
+++ local map=
+++ [[ -z '' ]]
+++ echo location 4111139999 4161338203 humidity 4111139999 4161338203 temperature 3550997804 3601196008 light 3522272014 3572470218 water 4115241495 4165439699 fertilizer 3676555967 3726754171 soil 4129864682 4180062886 seed 3139431799 3189630003
+++ return
+++ break
+++ true
+++ break
+++ true
+++ break
+++ true
+++ break
+++ true
+++ break
+++ true
+++ break
+++ true
++ echo SEEDs 3139431799 50198205: location 4111139999 4161338203 humidity 4111139999 4161338203 temperature 3550997804 3601196008 light 3522272014 3572470218 water 4115241495 4165439699 fertilizer 3676555967 3726754171 soil 4129864682 4180062886 seed 3139431799 3189630003
+SEEDs 3139431799 50198205: location 4111139999 4161338203 humidity 4111139999 4161338203 temperature 3550997804 3601196008 light 3522272014 3572470218 water 4115241495 4165439699 fertilizer 3676555967 3726754171 soil 4129864682 4180062886 seed 3139431799 3189630003
++ read start range
+++ find_mapping seed 3647185634 3757337394
+++ local source=seed
+++ local start=3647185634
+++ local end=3757337394
++++ grep -Eo 'seed-to-[[:alpha:]]+'
+++ local map=seed-to-soil
+++ [[ -z seed-to-soil ]]
++++ cut -d- -f3
+++ local destination=soil
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 69797365 ]]
+++ local end_map=69797364
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 36566707 ]]
+++ local end_map=106364071
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 58653718 ]]
+++ local end_map=165017789
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 44262617 ]]
+++ local end_map=209280406
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 60205478 ]]
+++ local end_map=269485884
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 88937774 ]]
+++ local end_map=358423658
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 126030444 ]]
+++ local end_map=484454102
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 121810618 ]]
+++ local end_map=606264720
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 196539291 ]]
+++ local end_map=802804011
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 6283366 ]]
+++ local end_map=809087377
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 268751759 ]]
+++ local end_map=1077839136
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 21276761 ]]
+++ local end_map=1099115897
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 43528687 ]]
+++ local end_map=1142644584
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 70452661 ]]
+++ local end_map=1213097245
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 188812728 ]]
+++ local end_map=1401909973
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 23067952 ]]
+++ local end_map=1424977925
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 190757551 ]]
+++ local end_map=1615735476
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 139190145 ]]
+++ local end_map=1754925621
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 66697504 ]]
+++ local end_map=1821623125
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 241567873 ]]
+++ local end_map=2135952034
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 86025489 ]]
+++ local end_map=2221977523
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 77230393 ]]
+++ local end_map=2299207916
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 62031113 ]]
+++ local end_map=2361239029
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 66366962 ]]
+++ local end_map=2427605991
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 153737109 ]]
+++ local end_map=2581343100
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 165949051 ]]
+++ local end_map=2747292151
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26437233 ]]
+++ local end_map=2773729384
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 10470414 ]]
+++ local end_map=2784199798
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26296576 ]]
+++ local end_map=2810496374
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 39356837 ]]
+++ local end_map=2849853211
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 361877006 ]]
+++ local end_map=3211730217
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 136699600 ]]
+++ local end_map=3348429817
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 121850971 ]]
+++ local end_map=3470280788
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 321448984 ]]
+++ local end_map=3791729772
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=176904845
+++ local new_start=2110645844
+++ ((  end <= end_map  ))
+++ local diff2=110151760
+++ local new_end=2220797604
+++ finished=true
+++ find_mapping soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=soil
+++ local start=2110645844
+++ local end=2220797604
++++ grep -Eo 'soil-to-[[:alpha:]]+'
+++ local map=soil-to-fertilizer
+++ [[ -z soil-to-fertilizer ]]
++++ cut -d- -f3
+++ local destination=fertilizer
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 226093219 ]]
+++ local end_map=226093218
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 21270249 ]]
+++ local end_map=247363467
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 130653542 ]]
+++ local end_map=378017009
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 21525470 ]]
+++ local end_map=399542479
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 164753481 ]]
+++ local end_map=564295960
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 163009674 ]]
+++ local end_map=727305634
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 169196919 ]]
+++ local end_map=896502553
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 10335567 ]]
+++ local end_map=906838120
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 300996909 ]]
+++ local end_map=1207835029
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 120315882 ]]
+++ local end_map=1328150911
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 51158945 ]]
+++ local end_map=1379309856
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 42097049 ]]
+++ local end_map=1421406905
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 171284482 ]]
+++ local end_map=1592691387
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 500989478 ]]
+++ local end_map=2093680865
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 164092891 ]]
+++ local end_map=2263882657
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=10856077
+++ local new_start=4003589506
+++ ((  end <= end_map  ))
+++ local diff2=110151760
+++ local new_end=4113741266
+++ finished=true
+++ find_mapping fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=fertilizer
+++ local start=4003589506
+++ local end=4113741266
++++ grep -Eo 'fertilizer-to-[[:alpha:]]+'
+++ local map=fertilizer-to-water
+++ [[ -z fertilizer-to-water ]]
++++ cut -d- -f3
+++ local destination=water
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 243114563 ]]
+++ local end_map=243114562
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 86649352 ]]
+++ local end_map=329763914
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 34129824 ]]
+++ local end_map=363893738
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 17820490 ]]
+++ local end_map=381714228
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 59608415 ]]
+++ local end_map=441322643
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 204058157 ]]
+++ local end_map=645380800
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 22435077 ]]
+++ local end_map=667815877
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 92760141 ]]
+++ local end_map=760576018
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 12324751 ]]
+++ local end_map=772900769
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 137026460 ]]
+++ local end_map=909927229
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 105011330 ]]
+++ local end_map=1014938559
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 60667719 ]]
+++ local end_map=1075606278
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 100417305 ]]
+++ local end_map=1176023583
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 27579684 ]]
+++ local end_map=1203603267
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 189439550 ]]
+++ local end_map=1393042817
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 178490714 ]]
+++ local end_map=1571533531
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 62618713 ]]
+++ local end_map=1634152244
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 106953568 ]]
+++ local end_map=1741105812
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 32320840 ]]
+++ local end_map=1773426652
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 12420518 ]]
+++ local end_map=1785847170
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 4891372 ]]
+++ local end_map=1790738542
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 33346902 ]]
+++ local end_map=1824085444
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 20243676 ]]
+++ local end_map=1844329120
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26767367 ]]
+++ local end_map=1871096487
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 471560375 ]]
+++ local end_map=2342656862
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 59182412 ]]
+++ local end_map=2401839274
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 72374872 ]]
+++ local end_map=2474214146
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 51290967 ]]
+++ local end_map=2525505113
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 127617871 ]]
+++ local end_map=2701101997
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 225220022 ]]
+++ local end_map=2926322019
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 5981819 ]]
+++ local end_map=2932303838
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 130605239 ]]
+++ local end_map=3062909077
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 75538793 ]]
+++ local end_map=3138447870
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 156185660 ]]
+++ local end_map=3294633530
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 262968471 ]]
+++ local end_map=3557602001
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 204061128 ]]
+++ local end_map=3761663129
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 355893932 ]]
+++ local end_map=4117557061
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=241926376
+++ local new_start=3459784656
+++ ((  end <= end_map  ))
+++ local diff2=110151760
+++ local new_end=3569936416
+++ finished=true
+++ find_mapping water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=water
+++ local start=3459784656
+++ local end=3569936416
++++ grep -Eo 'water-to-[[:alpha:]]+'
+++ local map=water-to-light
+++ [[ -z water-to-light ]]
++++ cut -d- -f3
+++ local destination=light
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 107380774 ]]
+++ local end_map=107380773
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 202029546 ]]
+++ local end_map=309410319
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 100332146 ]]
+++ local end_map=409742465
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 55552135 ]]
+++ local end_map=465294600
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 176895013 ]]
+++ local end_map=642189613
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 64567949 ]]
+++ local end_map=706757562
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 45942854 ]]
+++ local end_map=752700416
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 6530680 ]]
+++ local end_map=759231096
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26724064 ]]
+++ local end_map=785955160
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 52302440 ]]
+++ local end_map=838257600
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 25782663 ]]
+++ local end_map=864040263
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 58789004 ]]
+++ local end_map=922829267
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 123372939 ]]
+++ local end_map=1046202206
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35444248 ]]
+++ local end_map=1081646454
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 19946665 ]]
+++ local end_map=1101593119
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 28493371 ]]
+++ local end_map=1130086490
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 143713916 ]]
+++ local end_map=1273800406
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 84674733 ]]
+++ local end_map=1358475139
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 29661777 ]]
+++ local end_map=1388136916
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 82436785 ]]
+++ local end_map=1470573701
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 75076585 ]]
+++ local end_map=1545650286
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 88098888 ]]
+++ local end_map=1633749174
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 71376364 ]]
+++ local end_map=1705125538
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 116637671 ]]
+++ local end_map=1821763209
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 100196810 ]]
+++ local end_map=1921960019
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 28343714 ]]
+++ local end_map=1950303733
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 147477502 ]]
+++ local end_map=2097781235
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 292450760 ]]
+++ local end_map=2390231995
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26561329 ]]
+++ local end_map=2416793324
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 134492301 ]]
+++ local end_map=2551285625
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 37284381 ]]
+++ local end_map=2588570006
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 102241079 ]]
+++ local end_map=2690811085
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 142699904 ]]
+++ local end_map=2833510989
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 187908810 ]]
+++ local end_map=3021419799
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 175807670 ]]
+++ local end_map=3197227469
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 31933095 ]]
+++ local end_map=3229160564
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 10342236 ]]
+++ local end_map=3239502800
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 94242072 ]]
+++ local end_map=3333744872
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 74978759 ]]
+++ local end_map=3408723631
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 23185575 ]]
+++ local end_map=3473284227
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=9686003
+++ local new_start=4181636580
+++ ((  end <= end_map  ))
+++ local diff2=13499571
+++ local new_end=4195136151
+++ find_mapping light 4181636580 4195136151 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=light
+++ local start=4181636580
+++ local end=4195136151
++++ grep -Eo 'light-to-[[:alpha:]]+'
+++ local map=light-to-temperature
+++ [[ -z light-to-temperature ]]
++++ cut -d- -f3
+++ local destination=temperature
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 353313230 ]]
+++ local end_map=353313229
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 376619264 ]]
+++ local end_map=729932493
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 461025826 ]]
+++ local end_map=1190958319
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69004583 ]]
+++ local end_map=1259962902
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 494809338 ]]
+++ local end_map=1754772240
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 373416033 ]]
+++ local end_map=2128188273
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 62837120 ]]
+++ local end_map=2191025393
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35456664 ]]
+++ local end_map=2322419909
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 137121725 ]]
+++ local end_map=2459541634
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 298395440 ]]
+++ local end_map=2757937074
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 227055902 ]]
+++ local end_map=2984992976
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69188559 ]]
+++ local end_map=3054181535
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 321275112 ]]
+++ local end_map=3375456647
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 91164221 ]]
+++ local end_map=3466620868
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 376755291 ]]
+++ local end_map=3843376159
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 451591136 ]]
+++ local end_map=4294967295
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=338260420
+++ local new_start=3244894218
+++ ((  end <= end_map  ))
+++ local diff2=13499571
+++ local new_end=3258393789
+++ finished=true
+++ find_mapping temperature 3244894218 3258393789 light 4181636580 4195136151 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=temperature
+++ local start=3244894218
+++ local end=3258393789
++++ grep -Eo 'temperature-to-[[:alpha:]]+'
+++ local map=temperature-to-humidity
+++ [[ -z temperature-to-humidity ]]
++++ cut -d- -f3
+++ local destination=humidity
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 278789291 ]]
+++ local end_map=278789290
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26953293 ]]
+++ local end_map=305742583
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 20602508 ]]
+++ local end_map=326345091
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 152947914 ]]
+++ local end_map=479293005
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 226560784 ]]
+++ local end_map=705853789
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 531885699 ]]
+++ local end_map=1237739488
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 233292183 ]]
+++ local end_map=1471031671
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 367564898 ]]
+++ local end_map=1838596569
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69663144 ]]
+++ local end_map=1908259713
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 96923792 ]]
+++ local end_map=2597709261
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 261363191 ]]
+++ local end_map=2859072452
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 433151118 ]]
+++ local end_map=3292223570
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=385821765
+++ local new_start=2886607235
+++ ((  end <= end_map  ))
+++ local diff2=13499571
+++ local new_end=2900106806
+++ finished=true
+++ find_mapping humidity 2886607235 2900106806 temperature 3244894218 3258393789 light 4181636580 4195136151 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=humidity
+++ local start=2886607235
+++ local end=2900106806
++++ grep -Eo 'humidity-to-[[:alpha:]]+'
+++ local map=humidity-to-location
+++ [[ -z humidity-to-location ]]
++++ cut -d- -f3
+++ local destination=location
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 561533 ]]
+++ local end_map=561532
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 922927950 ]]
+++ local end_map=923489482
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 565631070 ]]
+++ local end_map=1489120552
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277858250 ]]
+++ local end_map=1766978802
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 483883727 ]]
+++ local end_map=2250862529
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 61410922 ]]
+++ local end_map=2312273451
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277871332 ]]
+++ local end_map=2590144783
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 734802140 ]]
+++ local end_map=3324946923
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=296462451
+++ local new_start=1241683279
+++ ((  end <= end_map  ))
+++ local diff2=13499571
+++ local new_end=1255182850
+++ finished=true
+++ find_mapping location 1241683279 1255182850 humidity 2886607235 2900106806 temperature 3244894218 3258393789 light 4181636580 4195136151 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=location
+++ local start=1241683279
+++ local end=1255182850
++++ grep -Eo 'location-to-[[:alpha:]]+'
+++ local map=
+++ [[ -z '' ]]
+++ echo location 1241683279 1255182850 humidity 2886607235 2900106806 temperature 3244894218 3258393789 light 4181636580 4195136151 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ return
+++ break
+++ true
+++ break
+++ true
+++ break
+++ true
+++ start=3473284228
+++ read destination_map start_map range
+++ [[ -z 37900570 ]]
+++ local end_map=3511184797
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=0
+++ local new_start=3450098653
+++ ((  end <= end_map  ))
+++ local diff2=37900569
+++ local new_end=3487999222
+++ find_mapping light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=light
+++ local start=3450098653
+++ local end=3487999222
++++ grep -Eo 'light-to-[[:alpha:]]+'
+++ local map=light-to-temperature
+++ [[ -z light-to-temperature ]]
++++ cut -d- -f3
+++ local destination=temperature
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 353313230 ]]
+++ local end_map=353313229
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 376619264 ]]
+++ local end_map=729932493
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 461025826 ]]
+++ local end_map=1190958319
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69004583 ]]
+++ local end_map=1259962902
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 494809338 ]]
+++ local end_map=1754772240
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 373416033 ]]
+++ local end_map=2128188273
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 62837120 ]]
+++ local end_map=2191025393
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35456664 ]]
+++ local end_map=2322419909
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 137121725 ]]
+++ local end_map=2459541634
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 298395440 ]]
+++ local end_map=2757937074
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 227055902 ]]
+++ local end_map=2984992976
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69188559 ]]
+++ local end_map=3054181535
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 321275112 ]]
+++ local end_map=3375456647
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 91164221 ]]
+++ local end_map=3466620868
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=74642005
+++ local new_start=4051389178
+++ ((  end <= end_map  ))
+++ local diff2=16522215
+++ local new_end=4067911393
+++ find_mapping temperature 4051389178 4067911393 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=temperature
+++ local start=4051389178
+++ local end=4067911393
++++ grep -Eo 'temperature-to-[[:alpha:]]+'
+++ local map=temperature-to-humidity
+++ [[ -z temperature-to-humidity ]]
++++ cut -d- -f3
+++ local destination=humidity
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 278789291 ]]
+++ local end_map=278789290
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26953293 ]]
+++ local end_map=305742583
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 20602508 ]]
+++ local end_map=326345091
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 152947914 ]]
+++ local end_map=479293005
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 226560784 ]]
+++ local end_map=705853789
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 531885699 ]]
+++ local end_map=1237739488
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 233292183 ]]
+++ local end_map=1471031671
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 367564898 ]]
+++ local end_map=1838596569
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69663144 ]]
+++ local end_map=1908259713
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 96923792 ]]
+++ local end_map=2597709261
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 261363191 ]]
+++ local end_map=2859072452
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 433151118 ]]
+++ local end_map=3292223570
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 113802375 ]]
+++ local end_map=3406025945
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 214996780 ]]
+++ local end_map=3621022725
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 263516963 ]]
+++ local end_map=3884539688
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 410427607 ]]
+++ local end_map=4294967295
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=166849489
+++ local new_start=3722590023
+++ ((  end <= end_map  ))
+++ local diff2=16522215
+++ local new_end=3739112238
+++ finished=true
+++ find_mapping humidity 3722590023 3739112238 temperature 4051389178 4067911393 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=humidity
+++ local start=3722590023
+++ local end=3739112238
++++ grep -Eo 'humidity-to-[[:alpha:]]+'
+++ local map=humidity-to-location
+++ [[ -z humidity-to-location ]]
++++ cut -d- -f3
+++ local destination=location
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 561533 ]]
+++ local end_map=561532
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 922927950 ]]
+++ local end_map=923489482
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 565631070 ]]
+++ local end_map=1489120552
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277858250 ]]
+++ local end_map=1766978802
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 483883727 ]]
+++ local end_map=2250862529
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 61410922 ]]
+++ local end_map=2312273451
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277871332 ]]
+++ local end_map=2590144783
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 734802140 ]]
+++ local end_map=3324946923
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 364728727 ]]
+++ local end_map=3689675650
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35197452 ]]
+++ local end_map=3724873102
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=32914372
+++ local new_start=942937748
+++ ((  end <= end_map  ))
+++ local diff2=2283079
+++ local new_end=945220827
+++ find_mapping location 942937748 945220827 humidity 3722590023 3739112238 temperature 4051389178 4067911393 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=location
+++ local start=942937748
+++ local end=945220827
++++ grep -Eo 'location-to-[[:alpha:]]+'
+++ local map=
+++ [[ -z '' ]]
+++ echo location 942937748 945220827 humidity 3722590023 3739112238 temperature 4051389178 4067911393 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ return
+++ start=3724873103
+++ read destination_map start_map range
+++ [[ -z 140154003 ]]
+++ local end_map=3865027105
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=0
+++ local new_start=3965094386
+++ ((  end <= end_map  ))
+++ local diff2=14239135
+++ local new_end=3979333521
+++ finished=true
+++ find_mapping location 3965094386 3979333521 humidity 3722590023 3739112238 temperature 4051389178 4067911393 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=location
+++ local start=3965094386
+++ local end=3979333521
++++ grep -Eo 'location-to-[[:alpha:]]+'
+++ local map=
+++ [[ -z '' ]]
+++ echo location 3965094386 3979333521 humidity 3722590023 3739112238 temperature 4051389178 4067911393 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ return
+++ break
+++ true
+++ break
+++ true
+++ start=3466620869
+++ read destination_map start_map range
+++ [[ -z 376755291 ]]
+++ local end_map=3843376159
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=0
+++ local new_start=3495346659
+++ ((  end <= end_map  ))
+++ local diff2=21378353
+++ local new_end=3516725012
+++ finished=true
+++ find_mapping temperature 3495346659 3516725012 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=temperature
+++ local start=3495346659
+++ local end=3516725012
++++ grep -Eo 'temperature-to-[[:alpha:]]+'
+++ local map=temperature-to-humidity
+++ [[ -z temperature-to-humidity ]]
++++ cut -d- -f3
+++ local destination=humidity
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 278789291 ]]
+++ local end_map=278789290
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26953293 ]]
+++ local end_map=305742583
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 20602508 ]]
+++ local end_map=326345091
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 152947914 ]]
+++ local end_map=479293005
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 226560784 ]]
+++ local end_map=705853789
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 531885699 ]]
+++ local end_map=1237739488
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 233292183 ]]
+++ local end_map=1471031671
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 367564898 ]]
+++ local end_map=1838596569
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69663144 ]]
+++ local end_map=1908259713
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 96923792 ]]
+++ local end_map=2597709261
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 261363191 ]]
+++ local end_map=2859072452
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 433151118 ]]
+++ local end_map=3292223570
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 113802375 ]]
+++ local end_map=3406025945
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 214996780 ]]
+++ local end_map=3621022725
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=89320713
+++ local new_start=4055488854
+++ ((  end <= end_map  ))
+++ local diff2=21378353
+++ local new_end=4076867207
+++ finished=true
+++ find_mapping humidity 4055488854 4076867207 temperature 3495346659 3516725012 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=humidity
+++ local start=4055488854
+++ local end=4076867207
++++ grep -Eo 'humidity-to-[[:alpha:]]+'
+++ local map=humidity-to-location
+++ [[ -z humidity-to-location ]]
++++ cut -d- -f3
+++ local destination=location
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 561533 ]]
+++ local end_map=561532
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 922927950 ]]
+++ local end_map=923489482
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 565631070 ]]
+++ local end_map=1489120552
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277858250 ]]
+++ local end_map=1766978802
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 483883727 ]]
+++ local end_map=2250862529
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 61410922 ]]
+++ local end_map=2312273451
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277871332 ]]
+++ local end_map=2590144783
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 734802140 ]]
+++ local end_map=3324946923
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 364728727 ]]
+++ local end_map=3689675650
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35197452 ]]
+++ local end_map=3724873102
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 140154003 ]]
+++ local end_map=3865027105
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 240221283 ]]
+++ local end_map=4105248388
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=190461748
+++ local new_start=3915334851
+++ ((  end <= end_map  ))
+++ local diff2=21378353
+++ local new_end=3936713204
+++ finished=true
+++ find_mapping location 3915334851 3936713204 humidity 4055488854 4076867207 temperature 3495346659 3516725012 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=location
+++ local start=3915334851
+++ local end=3936713204
++++ grep -Eo 'location-to-[[:alpha:]]+'
+++ local map=
+++ [[ -z '' ]]
+++ echo location 3915334851 3936713204 humidity 4055488854 4076867207 temperature 3495346659 3516725012 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ return
+++ break
+++ true
+++ break
+++ true
+++ break
+++ true
+++ start=3511184798
+++ read destination_map start_map range
+++ [[ -z 41677550 ]]
+++ local end_map=3552862347
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=0
+++ local new_start=4195136152
+++ ((  end <= end_map  ))
+++ local diff2=41677549
+++ local new_end=4236813701
+++ find_mapping light 4195136152 4236813701 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=light
+++ local start=4195136152
+++ local end=4236813701
++++ grep -Eo 'light-to-[[:alpha:]]+'
+++ local map=light-to-temperature
+++ [[ -z light-to-temperature ]]
++++ cut -d- -f3
+++ local destination=temperature
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 353313230 ]]
+++ local end_map=353313229
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 376619264 ]]
+++ local end_map=729932493
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 461025826 ]]
+++ local end_map=1190958319
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69004583 ]]
+++ local end_map=1259962902
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 494809338 ]]
+++ local end_map=1754772240
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 373416033 ]]
+++ local end_map=2128188273
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 62837120 ]]
+++ local end_map=2191025393
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35456664 ]]
+++ local end_map=2322419909
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 137121725 ]]
+++ local end_map=2459541634
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 298395440 ]]
+++ local end_map=2757937074
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 227055902 ]]
+++ local end_map=2984992976
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69188559 ]]
+++ local end_map=3054181535
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 321275112 ]]
+++ local end_map=3375456647
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 91164221 ]]
+++ local end_map=3466620868
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 376755291 ]]
+++ local end_map=3843376159
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 451591136 ]]
+++ local end_map=4294967295
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=351759992
+++ local new_start=3258393790
+++ ((  end <= end_map  ))
+++ local diff2=41677549
+++ local new_end=3300071339
+++ finished=true
+++ find_mapping temperature 3258393790 3300071339 light 4195136152 4236813701 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=temperature
+++ local start=3258393790
+++ local end=3300071339
++++ grep -Eo 'temperature-to-[[:alpha:]]+'
+++ local map=temperature-to-humidity
+++ [[ -z temperature-to-humidity ]]
++++ cut -d- -f3
+++ local destination=humidity
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 278789291 ]]
+++ local end_map=278789290
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26953293 ]]
+++ local end_map=305742583
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 20602508 ]]
+++ local end_map=326345091
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 152947914 ]]
+++ local end_map=479293005
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 226560784 ]]
+++ local end_map=705853789
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 531885699 ]]
+++ local end_map=1237739488
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 233292183 ]]
+++ local end_map=1471031671
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 367564898 ]]
+++ local end_map=1838596569
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69663144 ]]
+++ local end_map=1908259713
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 96923792 ]]
+++ local end_map=2597709261
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 261363191 ]]
+++ local end_map=2859072452
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 433151118 ]]
+++ local end_map=3292223570
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=399321337
+++ local new_start=2900106807
+++ ((  end <= end_map  ))
+++ local diff2=33829780
+++ local new_end=2933936587
+++ find_mapping humidity 2900106807 2933936587 temperature 3258393790 3300071339 light 4195136152 4236813701 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=humidity
+++ local start=2900106807
+++ local end=2933936587
++++ grep -Eo 'humidity-to-[[:alpha:]]+'
+++ local map=humidity-to-location
+++ [[ -z humidity-to-location ]]
++++ cut -d- -f3
+++ local destination=location
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 561533 ]]
+++ local end_map=561532
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 922927950 ]]
+++ local end_map=923489482
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 565631070 ]]
+++ local end_map=1489120552
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277858250 ]]
+++ local end_map=1766978802
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 483883727 ]]
+++ local end_map=2250862529
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 61410922 ]]
+++ local end_map=2312273451
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277871332 ]]
+++ local end_map=2590144783
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 734802140 ]]
+++ local end_map=3324946923
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=309962023
+++ local new_start=1255182851
+++ ((  end <= end_map  ))
+++ local diff2=33829780
+++ local new_end=1289012631
+++ finished=true
+++ find_mapping location 1255182851 1289012631 humidity 2900106807 2933936587 temperature 3258393790 3300071339 light 4195136152 4236813701 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=location
+++ local start=1255182851
+++ local end=1289012631
++++ grep -Eo 'location-to-[[:alpha:]]+'
+++ local map=
+++ [[ -z '' ]]
+++ echo location 1255182851 1289012631 humidity 2900106807 2933936587 temperature 3258393790 3300071339 light 4195136152 4236813701 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ return
+++ break
+++ true
+++ start=3292223571
+++ read destination_map start_map range
+++ [[ -z 113802375 ]]
+++ local end_map=3406025945
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=0
+++ local new_start=4181164921
+++ ((  end <= end_map  ))
+++ local diff2=7847768
+++ local new_end=4189012689
+++ finished=true
+++ find_mapping humidity 4181164921 4189012689 temperature 3258393790 3300071339 light 4195136152 4236813701 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=humidity
+++ local start=4181164921
+++ local end=4189012689
++++ grep -Eo 'humidity-to-[[:alpha:]]+'
+++ local map=humidity-to-location
+++ [[ -z humidity-to-location ]]
++++ cut -d- -f3
+++ local destination=location
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 561533 ]]
+++ local end_map=561532
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 922927950 ]]
+++ local end_map=923489482
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 565631070 ]]
+++ local end_map=1489120552
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277858250 ]]
+++ local end_map=1766978802
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 483883727 ]]
+++ local end_map=2250862529
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 61410922 ]]
+++ local end_map=2312273451
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277871332 ]]
+++ local end_map=2590144783
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 734802140 ]]
+++ local end_map=3324946923
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 364728727 ]]
+++ local end_map=3689675650
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35197452 ]]
+++ local end_map=3724873102
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 140154003 ]]
+++ local end_map=3865027105
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 240221283 ]]
+++ local end_map=4105248388
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ false
+++ find_mapping location 4181164921 4189012689 humidity 4181164921 4189012689 temperature 3258393790 3300071339 light 4195136152 4236813701 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=location
+++ local start=4181164921
+++ local end=4189012689
++++ grep -Eo 'location-to-[[:alpha:]]+'
+++ local map=
+++ [[ -z '' ]]
+++ echo location 4181164921 4189012689 humidity 4181164921 4189012689 temperature 3258393790 3300071339 light 4195136152 4236813701 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ return
+++ break
+++ true
+++ break
+++ true
+++ start=3552862348
+++ read destination_map start_map range
+++ [[ -z 284822769 ]]
+++ local end_map=3837685116
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=0
+++ local new_start=3887127808
+++ ((  end <= end_map  ))
+++ local diff2=17074068
+++ local new_end=3904201876
+++ finished=true
+++ find_mapping light 3887127808 3904201876 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=light
+++ local start=3887127808
+++ local end=3904201876
++++ grep -Eo 'light-to-[[:alpha:]]+'
+++ local map=light-to-temperature
+++ [[ -z light-to-temperature ]]
++++ cut -d- -f3
+++ local destination=temperature
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 353313230 ]]
+++ local end_map=353313229
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 376619264 ]]
+++ local end_map=729932493
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 461025826 ]]
+++ local end_map=1190958319
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69004583 ]]
+++ local end_map=1259962902
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 494809338 ]]
+++ local end_map=1754772240
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 373416033 ]]
+++ local end_map=2128188273
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 62837120 ]]
+++ local end_map=2191025393
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35456664 ]]
+++ local end_map=2322419909
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 137121725 ]]
+++ local end_map=2459541634
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 298395440 ]]
+++ local end_map=2757937074
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 227055902 ]]
+++ local end_map=2984992976
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69188559 ]]
+++ local end_map=3054181535
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 321275112 ]]
+++ local end_map=3375456647
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 91164221 ]]
+++ local end_map=3466620868
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 376755291 ]]
+++ local end_map=3843376159
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 451591136 ]]
+++ local end_map=4294967295
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=43751648
+++ local new_start=2950385446
+++ ((  end <= end_map  ))
+++ local diff2=17074068
+++ local new_end=2967459514
+++ finished=true
+++ find_mapping temperature 2950385446 2967459514 light 3887127808 3904201876 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=temperature
+++ local start=2950385446
+++ local end=2967459514
++++ grep -Eo 'temperature-to-[[:alpha:]]+'
+++ local map=temperature-to-humidity
+++ [[ -z temperature-to-humidity ]]
++++ cut -d- -f3
+++ local destination=humidity
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 278789291 ]]
+++ local end_map=278789290
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26953293 ]]
+++ local end_map=305742583
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 20602508 ]]
+++ local end_map=326345091
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 152947914 ]]
+++ local end_map=479293005
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 226560784 ]]
+++ local end_map=705853789
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 531885699 ]]
+++ local end_map=1237739488
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 233292183 ]]
+++ local end_map=1471031671
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 367564898 ]]
+++ local end_map=1838596569
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69663144 ]]
+++ local end_map=1908259713
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 96923792 ]]
+++ local end_map=2597709261
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 261363191 ]]
+++ local end_map=2859072452
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 433151118 ]]
+++ local end_map=3292223570
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=91312993
+++ local new_start=2592098463
+++ ((  end <= end_map  ))
+++ local diff2=17074068
+++ local new_end=2609172531
+++ finished=true
+++ find_mapping humidity 2592098463 2609172531 temperature 2950385446 2967459514 light 3887127808 3904201876 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=humidity
+++ local start=2592098463
+++ local end=2609172531
++++ grep -Eo 'humidity-to-[[:alpha:]]+'
+++ local map=humidity-to-location
+++ [[ -z humidity-to-location ]]
++++ cut -d- -f3
+++ local destination=location
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 561533 ]]
+++ local end_map=561532
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 922927950 ]]
+++ local end_map=923489482
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 565631070 ]]
+++ local end_map=1489120552
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277858250 ]]
+++ local end_map=1766978802
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 483883727 ]]
+++ local end_map=2250862529
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 61410922 ]]
+++ local end_map=2312273451
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277871332 ]]
+++ local end_map=2590144783
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 734802140 ]]
+++ local end_map=3324946923
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=1953679
+++ local new_start=947174507
+++ ((  end <= end_map  ))
+++ local diff2=17074068
+++ local new_end=964248575
+++ finished=true
+++ find_mapping location 947174507 964248575 humidity 2592098463 2609172531 temperature 2950385446 2967459514 light 3887127808 3904201876 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ local source=location
+++ local start=947174507
+++ local end=964248575
++++ grep -Eo 'location-to-[[:alpha:]]+'
+++ local map=
+++ [[ -z '' ]]
+++ echo location 947174507 964248575 humidity 2592098463 2609172531 temperature 2950385446 2967459514 light 3887127808 3904201876 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+++ return
+++ break
+++ true
+++ break
+++ true
+++ break
+++ true
+++ break
+++ true
+++ break
+++ true
+++ break
+++ true
+++ break
+++ true
++ echo SEEDs 3647185634 110151761: location 1241683279 1255182850 humidity 2886607235 2900106806 temperature 3244894218 3258393789 light 4181636580 4195136151 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394 location 942937748 945220827 humidity 3722590023 3739112238 temperature 4051389178 4067911393 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394 location 3965094386 3979333521 humidity 3722590023 3739112238 temperature 4051389178 4067911393 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394 location 3915334851 3936713204 humidity 4055488854 4076867207 temperature 3495346659 3516725012 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394 location 1255182851 1289012631 humidity 2900106807 2933936587 temperature 3258393790 3300071339 light 4195136152 4236813701 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394 location 4181164921 4189012689 humidity 4181164921 4189012689 temperature 3258393790 3300071339 light 4195136152 4236813701 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394 location 947174507 964248575 humidity 2592098463 2609172531 temperature 2950385446 2967459514 light 3887127808 3904201876 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
+SEEDs 3647185634 110151761: location 1241683279 1255182850 humidity 2886607235 2900106806 temperature 3244894218 3258393789 light 4181636580 4195136151 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394 location 942937748 945220827 humidity 3722590023 3739112238 temperature 4051389178 4067911393 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394 location 3965094386 3979333521 humidity 3722590023 3739112238 temperature 4051389178 4067911393 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394 location 3915334851 3936713204 humidity 4055488854 4076867207 temperature 3495346659 3516725012 light 3450098653 3487999222 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394 location 1255182851 1289012631 humidity 2900106807 2933936587 temperature 3258393790 3300071339 light 4195136152 4236813701 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394 location 4181164921 4189012689 humidity 4181164921 4189012689 temperature 3258393790 3300071339 light 4195136152 4236813701 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394 location 947174507 964248575 humidity 2592098463 2609172531 temperature 2950385446 2967459514 light 3887127808 3904201876 water 3459784656 3569936416 fertilizer 4003589506 4113741266 soil 2110645844 2220797604 seed 3647185634 3757337394
++ read start range
+++ find_mapping seed 2478641666 2618467168
+++ local source=seed
+++ local start=2478641666
+++ local end=2618467168
++++ grep -Eo 'seed-to-[[:alpha:]]+'
+++ local map=seed-to-soil
+++ [[ -z seed-to-soil ]]
++++ cut -d- -f3
+++ local destination=soil
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 69797365 ]]
+++ local end_map=69797364
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 36566707 ]]
+++ local end_map=106364071
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 58653718 ]]
+++ local end_map=165017789
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 44262617 ]]
+++ local end_map=209280406
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 60205478 ]]
+++ local end_map=269485884
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 88937774 ]]
+++ local end_map=358423658
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 126030444 ]]
+++ local end_map=484454102
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 121810618 ]]
+++ local end_map=606264720
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 196539291 ]]
+++ local end_map=802804011
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 6283366 ]]
+++ local end_map=809087377
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 268751759 ]]
+++ local end_map=1077839136
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 21276761 ]]
+++ local end_map=1099115897
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 43528687 ]]
+++ local end_map=1142644584
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 70452661 ]]
+++ local end_map=1213097245
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 188812728 ]]
+++ local end_map=1401909973
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 23067952 ]]
+++ local end_map=1424977925
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 190757551 ]]
+++ local end_map=1615735476
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 139190145 ]]
+++ local end_map=1754925621
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 66697504 ]]
+++ local end_map=1821623125
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 241567873 ]]
+++ local end_map=2135952034
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 86025489 ]]
+++ local end_map=2221977523
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 77230393 ]]
+++ local end_map=2299207916
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 62031113 ]]
+++ local end_map=2361239029
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 66366962 ]]
+++ local end_map=2427605991
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 153737109 ]]
+++ local end_map=2581343100
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=51035674
+++ local new_start=3080508980
+++ ((  end <= end_map  ))
+++ local diff2=102701434
+++ local new_end=3183210414
+++ find_mapping soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=soil
+++ local start=3080508980
+++ local end=3183210414
++++ grep -Eo 'soil-to-[[:alpha:]]+'
+++ local map=soil-to-fertilizer
+++ [[ -z soil-to-fertilizer ]]
++++ cut -d- -f3
+++ local destination=fertilizer
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 226093219 ]]
+++ local end_map=226093218
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 21270249 ]]
+++ local end_map=247363467
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 130653542 ]]
+++ local end_map=378017009
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 21525470 ]]
+++ local end_map=399542479
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 164753481 ]]
+++ local end_map=564295960
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 163009674 ]]
+++ local end_map=727305634
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 169196919 ]]
+++ local end_map=896502553
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 10335567 ]]
+++ local end_map=906838120
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 300996909 ]]
+++ local end_map=1207835029
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 120315882 ]]
+++ local end_map=1328150911
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 51158945 ]]
+++ local end_map=1379309856
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 42097049 ]]
+++ local end_map=1421406905
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 171284482 ]]
+++ local end_map=1592691387
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 500989478 ]]
+++ local end_map=2093680865
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 164092891 ]]
+++ local end_map=2263882657
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 88575441 ]]
+++ local end_map=2352458098
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 28057201 ]]
+++ local end_map=2380515299
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 218129381 ]]
+++ local end_map=2598644680
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 151074848 ]]
+++ local end_map=2749719528
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 135349925 ]]
+++ local end_map=2885069453
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 1000601927 ]]
+++ local end_map=3885671380
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=195439526
+++ local new_start=2310179839
+++ ((  end <= end_map  ))
+++ local diff2=102701434
+++ local new_end=2412881273
+++ finished=true
+++ find_mapping fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=fertilizer
+++ local start=2310179839
+++ local end=2412881273
++++ grep -Eo 'fertilizer-to-[[:alpha:]]+'
+++ local map=fertilizer-to-water
+++ [[ -z fertilizer-to-water ]]
++++ cut -d- -f3
+++ local destination=water
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 243114563 ]]
+++ local end_map=243114562
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 86649352 ]]
+++ local end_map=329763914
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 34129824 ]]
+++ local end_map=363893738
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 17820490 ]]
+++ local end_map=381714228
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 59608415 ]]
+++ local end_map=441322643
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 204058157 ]]
+++ local end_map=645380800
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 22435077 ]]
+++ local end_map=667815877
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 92760141 ]]
+++ local end_map=760576018
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 12324751 ]]
+++ local end_map=772900769
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 137026460 ]]
+++ local end_map=909927229
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 105011330 ]]
+++ local end_map=1014938559
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 60667719 ]]
+++ local end_map=1075606278
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 100417305 ]]
+++ local end_map=1176023583
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 27579684 ]]
+++ local end_map=1203603267
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 189439550 ]]
+++ local end_map=1393042817
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 178490714 ]]
+++ local end_map=1571533531
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 62618713 ]]
+++ local end_map=1634152244
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 106953568 ]]
+++ local end_map=1741105812
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 32320840 ]]
+++ local end_map=1773426652
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 12420518 ]]
+++ local end_map=1785847170
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 4891372 ]]
+++ local end_map=1790738542
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 33346902 ]]
+++ local end_map=1824085444
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 20243676 ]]
+++ local end_map=1844329120
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26767367 ]]
+++ local end_map=1871096487
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 471560375 ]]
+++ local end_map=2342656862
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=439083351
+++ local new_start=1281363797
+++ ((  end <= end_map  ))
+++ local diff2=32477023
+++ local new_end=1313840820
+++ find_mapping water 1281363797 1313840820 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=water
+++ local start=1281363797
+++ local end=1313840820
++++ grep -Eo 'water-to-[[:alpha:]]+'
+++ local map=water-to-light
+++ [[ -z water-to-light ]]
++++ cut -d- -f3
+++ local destination=light
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 107380774 ]]
+++ local end_map=107380773
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 202029546 ]]
+++ local end_map=309410319
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 100332146 ]]
+++ local end_map=409742465
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 55552135 ]]
+++ local end_map=465294600
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 176895013 ]]
+++ local end_map=642189613
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 64567949 ]]
+++ local end_map=706757562
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 45942854 ]]
+++ local end_map=752700416
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 6530680 ]]
+++ local end_map=759231096
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26724064 ]]
+++ local end_map=785955160
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 52302440 ]]
+++ local end_map=838257600
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 25782663 ]]
+++ local end_map=864040263
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 58789004 ]]
+++ local end_map=922829267
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 123372939 ]]
+++ local end_map=1046202206
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35444248 ]]
+++ local end_map=1081646454
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 19946665 ]]
+++ local end_map=1101593119
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 28493371 ]]
+++ local end_map=1130086490
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 143713916 ]]
+++ local end_map=1273800406
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 84674733 ]]
+++ local end_map=1358475139
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=7563390
+++ local new_start=2749631338
+++ ((  end <= end_map  ))
+++ local diff2=32477023
+++ local new_end=2782108361
+++ finished=true
+++ find_mapping light 2749631338 2782108361 water 1281363797 1313840820 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=light
+++ local start=2749631338
+++ local end=2782108361
++++ grep -Eo 'light-to-[[:alpha:]]+'
+++ local map=light-to-temperature
+++ [[ -z light-to-temperature ]]
++++ cut -d- -f3
+++ local destination=temperature
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 353313230 ]]
+++ local end_map=353313229
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 376619264 ]]
+++ local end_map=729932493
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 461025826 ]]
+++ local end_map=1190958319
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69004583 ]]
+++ local end_map=1259962902
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 494809338 ]]
+++ local end_map=1754772240
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 373416033 ]]
+++ local end_map=2128188273
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 62837120 ]]
+++ local end_map=2191025393
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35456664 ]]
+++ local end_map=2322419909
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 137121725 ]]
+++ local end_map=2459541634
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 298395440 ]]
+++ local end_map=2757937074
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=290089703
+++ local new_start=2898328061
+++ ((  end <= end_map  ))
+++ local diff2=8305736
+++ local new_end=2906633797
+++ find_mapping temperature 2898328061 2906633797 light 2749631338 2782108361 water 1281363797 1313840820 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=temperature
+++ local start=2898328061
+++ local end=2906633797
++++ grep -Eo 'temperature-to-[[:alpha:]]+'
+++ local map=temperature-to-humidity
+++ [[ -z temperature-to-humidity ]]
++++ cut -d- -f3
+++ local destination=humidity
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 278789291 ]]
+++ local end_map=278789290
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26953293 ]]
+++ local end_map=305742583
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 20602508 ]]
+++ local end_map=326345091
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 152947914 ]]
+++ local end_map=479293005
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 226560784 ]]
+++ local end_map=705853789
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 531885699 ]]
+++ local end_map=1237739488
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 233292183 ]]
+++ local end_map=1471031671
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 367564898 ]]
+++ local end_map=1838596569
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69663144 ]]
+++ local end_map=1908259713
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 96923792 ]]
+++ local end_map=2597709261
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 261363191 ]]
+++ local end_map=2859072452
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 433151118 ]]
+++ local end_map=3292223570
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=39255608
+++ local new_start=2540041078
+++ ((  end <= end_map  ))
+++ local diff2=8305736
+++ local new_end=2548346814
+++ finished=true
+++ find_mapping humidity 2540041078 2548346814 temperature 2898328061 2906633797 light 2749631338 2782108361 water 1281363797 1313840820 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=humidity
+++ local start=2540041078
+++ local end=2548346814
++++ grep -Eo 'humidity-to-[[:alpha:]]+'
+++ local map=humidity-to-location
+++ [[ -z humidity-to-location ]]
++++ cut -d- -f3
+++ local destination=location
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 561533 ]]
+++ local end_map=561532
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 922927950 ]]
+++ local end_map=923489482
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 565631070 ]]
+++ local end_map=1489120552
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277858250 ]]
+++ local end_map=1766978802
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 483883727 ]]
+++ local end_map=2250862529
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 61410922 ]]
+++ local end_map=2312273451
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277871332 ]]
+++ local end_map=2590144783
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=227767626
+++ local new_start=1907790594
+++ ((  end <= end_map  ))
+++ local diff2=8305736
+++ local new_end=1916096330
+++ finished=true
+++ find_mapping location 1907790594 1916096330 humidity 2540041078 2548346814 temperature 2898328061 2906633797 light 2749631338 2782108361 water 1281363797 1313840820 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=location
+++ local start=1907790594
+++ local end=1916096330
++++ grep -Eo 'location-to-[[:alpha:]]+'
+++ local map=
+++ [[ -z '' ]]
+++ echo location 1907790594 1916096330 humidity 2540041078 2548346814 temperature 2898328061 2906633797 light 2749631338 2782108361 water 1281363797 1313840820 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ return
+++ break
+++ true
+++ break
+++ true
+++ start=2757937075
+++ read destination_map start_map range
+++ [[ -z 227055902 ]]
+++ local end_map=2984992976
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=0
+++ local new_start=4067911394
+++ ((  end <= end_map  ))
+++ local diff2=24171286
+++ local new_end=4092082680
+++ finished=true
+++ find_mapping temperature 4067911394 4092082680 light 2749631338 2782108361 water 1281363797 1313840820 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=temperature
+++ local start=4067911394
+++ local end=4092082680
++++ grep -Eo 'temperature-to-[[:alpha:]]+'
+++ local map=temperature-to-humidity
+++ [[ -z temperature-to-humidity ]]
++++ cut -d- -f3
+++ local destination=humidity
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 278789291 ]]
+++ local end_map=278789290
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26953293 ]]
+++ local end_map=305742583
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 20602508 ]]
+++ local end_map=326345091
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 152947914 ]]
+++ local end_map=479293005
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 226560784 ]]
+++ local end_map=705853789
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 531885699 ]]
+++ local end_map=1237739488
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 233292183 ]]
+++ local end_map=1471031671
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 367564898 ]]
+++ local end_map=1838596569
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69663144 ]]
+++ local end_map=1908259713
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 96923792 ]]
+++ local end_map=2597709261
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 261363191 ]]
+++ local end_map=2859072452
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 433151118 ]]
+++ local end_map=3292223570
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 113802375 ]]
+++ local end_map=3406025945
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 214996780 ]]
+++ local end_map=3621022725
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 263516963 ]]
+++ local end_map=3884539688
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 410427607 ]]
+++ local end_map=4294967295
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=183371705
+++ local new_start=3739112239
+++ ((  end <= end_map  ))
+++ local diff2=24171286
+++ local new_end=3763283525
+++ finished=true
+++ find_mapping humidity 3739112239 3763283525 temperature 4067911394 4092082680 light 2749631338 2782108361 water 1281363797 1313840820 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=humidity
+++ local start=3739112239
+++ local end=3763283525
++++ grep -Eo 'humidity-to-[[:alpha:]]+'
+++ local map=humidity-to-location
+++ [[ -z humidity-to-location ]]
++++ cut -d- -f3
+++ local destination=location
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 561533 ]]
+++ local end_map=561532
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 922927950 ]]
+++ local end_map=923489482
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 565631070 ]]
+++ local end_map=1489120552
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277858250 ]]
+++ local end_map=1766978802
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 483883727 ]]
+++ local end_map=2250862529
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 61410922 ]]
+++ local end_map=2312273451
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277871332 ]]
+++ local end_map=2590144783
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 734802140 ]]
+++ local end_map=3324946923
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 364728727 ]]
+++ local end_map=3689675650
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35197452 ]]
+++ local end_map=3724873102
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 140154003 ]]
+++ local end_map=3865027105
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=14239136
+++ local new_start=3979333522
+++ ((  end <= end_map  ))
+++ local diff2=24171286
+++ local new_end=4003504808
+++ finished=true
+++ find_mapping location 3979333522 4003504808 humidity 3739112239 3763283525 temperature 4067911394 4092082680 light 2749631338 2782108361 water 1281363797 1313840820 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=location
+++ local start=3979333522
+++ local end=4003504808
++++ grep -Eo 'location-to-[[:alpha:]]+'
+++ local map=
+++ [[ -z '' ]]
+++ echo location 3979333522 4003504808 humidity 3739112239 3763283525 temperature 4067911394 4092082680 light 2749631338 2782108361 water 1281363797 1313840820 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ return
+++ break
+++ true
+++ break
+++ true
+++ break
+++ true
+++ break
+++ true
+++ start=2342656863
+++ read destination_map start_map range
+++ [[ -z 59182412 ]]
+++ local end_map=2401839274
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=0
+++ local new_start=1780224111
+++ ((  end <= end_map  ))
+++ local diff2=59182411
+++ local new_end=1839406522
+++ find_mapping water 1780224111 1839406522 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=water
+++ local start=1780224111
+++ local end=1839406522
++++ grep -Eo 'water-to-[[:alpha:]]+'
+++ local map=water-to-light
+++ [[ -z water-to-light ]]
++++ cut -d- -f3
+++ local destination=light
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 107380774 ]]
+++ local end_map=107380773
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 202029546 ]]
+++ local end_map=309410319
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 100332146 ]]
+++ local end_map=409742465
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 55552135 ]]
+++ local end_map=465294600
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 176895013 ]]
+++ local end_map=642189613
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 64567949 ]]
+++ local end_map=706757562
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 45942854 ]]
+++ local end_map=752700416
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 6530680 ]]
+++ local end_map=759231096
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26724064 ]]
+++ local end_map=785955160
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 52302440 ]]
+++ local end_map=838257600
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 25782663 ]]
+++ local end_map=864040263
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 58789004 ]]
+++ local end_map=922829267
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 123372939 ]]
+++ local end_map=1046202206
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35444248 ]]
+++ local end_map=1081646454
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 19946665 ]]
+++ local end_map=1101593119
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 28493371 ]]
+++ local end_map=1130086490
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 143713916 ]]
+++ local end_map=1273800406
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 84674733 ]]
+++ local end_map=1358475139
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 29661777 ]]
+++ local end_map=1388136916
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 82436785 ]]
+++ local end_map=1470573701
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 75076585 ]]
+++ local end_map=1545650286
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 88098888 ]]
+++ local end_map=1633749174
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 71376364 ]]
+++ local end_map=1705125538
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 116637671 ]]
+++ local end_map=1821763209
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=75098572
+++ local new_start=2263902629
+++ ((  end <= end_map  ))
+++ local diff2=41539098
+++ local new_end=2305441727
+++ find_mapping light 2263902629 2305441727 water 1780224111 1839406522 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=light
+++ local start=2263902629
+++ local end=2305441727
++++ grep -Eo 'light-to-[[:alpha:]]+'
+++ local map=light-to-temperature
+++ [[ -z light-to-temperature ]]
++++ cut -d- -f3
+++ local destination=temperature
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 353313230 ]]
+++ local end_map=353313229
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 376619264 ]]
+++ local end_map=729932493
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 461025826 ]]
+++ local end_map=1190958319
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69004583 ]]
+++ local end_map=1259962902
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 494809338 ]]
+++ local end_map=1754772240
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 373416033 ]]
+++ local end_map=2128188273
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 62837120 ]]
+++ local end_map=2191025393
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 35456664 ]]
+++ local end_map=2322419909
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ local diff=18478481
+++ local new_start=3872101950
+++ local new_end=3890580431
+++ find_mapping temperature 3872101950 3890580431 light 2263902629 2305441727 water 1780224111 1839406522 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=temperature
+++ local start=3872101950
+++ local end=3890580431
++++ grep -Eo 'temperature-to-[[:alpha:]]+'
+++ local map=temperature-to-humidity
+++ [[ -z temperature-to-humidity ]]
++++ cut -d- -f3
+++ local destination=humidity
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 278789291 ]]
+++ local end_map=278789290
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 26953293 ]]
+++ local end_map=305742583
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 20602508 ]]
+++ local end_map=326345091
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 152947914 ]]
+++ local end_map=479293005
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 226560784 ]]
+++ local end_map=705853789
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 531885699 ]]
+++ local end_map=1237739488
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 233292183 ]]
+++ local end_map=1471031671
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 367564898 ]]
+++ local end_map=1838596569
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69663144 ]]
+++ local end_map=1908259713
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 96923792 ]]
+++ local end_map=2597709261
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 261363191 ]]
+++ local end_map=2859072452
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 433151118 ]]
+++ local end_map=3292223570
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 113802375 ]]
+++ local end_map=3406025945
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 214996780 ]]
+++ local end_map=3621022725
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 263516963 ]]
+++ local end_map=3884539688
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=251079224
+++ local new_start=3185015812
+++ ((  end <= end_map  ))
+++ local diff2=12437738
+++ local new_end=3197453550
+++ find_mapping humidity 3185015812 3197453550 temperature 3872101950 3890580431 light 2263902629 2305441727 water 1780224111 1839406522 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=humidity
+++ local start=3185015812
+++ local end=3197453550
++++ grep -Eo 'humidity-to-[[:alpha:]]+'
+++ local map=humidity-to-location
+++ [[ -z humidity-to-location ]]
++++ cut -d- -f3
+++ local destination=location
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 561533 ]]
+++ local end_map=561532
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 922927950 ]]
+++ local end_map=923489482
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 565631070 ]]
+++ local end_map=1489120552
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277858250 ]]
+++ local end_map=1766978802
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 483883727 ]]
+++ local end_map=2250862529
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 61410922 ]]
+++ local end_map=2312273451
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277871332 ]]
+++ local end_map=2590144783
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 734802140 ]]
+++ local end_map=3324946923
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=594871028
+++ local new_start=1540091856
+++ ((  end <= end_map  ))
+++ local diff2=12437738
+++ local new_end=1552529594
+++ finished=true
+++ find_mapping location 1540091856 1552529594 humidity 3185015812 3197453550 temperature 3872101950 3890580431 light 2263902629 2305441727 water 1780224111 1839406522 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=location
+++ local start=1540091856
+++ local end=1552529594
++++ grep -Eo 'location-to-[[:alpha:]]+'
+++ local map=
+++ [[ -z '' ]]
+++ echo location 1540091856 1552529594 humidity 3185015812 3197453550 temperature 3872101950 3890580431 light 2263902629 2305441727 water 1780224111 1839406522 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ return
+++ break
+++ true
+++ start=3884539689
+++ read destination_map start_map range
+++ [[ -z 410427607 ]]
+++ local end_map=4294967295
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=0
+++ local new_start=3555740534
+++ ((  end <= end_map  ))
+++ local diff2=6040742
+++ local new_end=3561781276
+++ finished=true
+++ find_mapping humidity 3555740534 3561781276 temperature 3872101950 3890580431 light 2263902629 2305441727 water 1780224111 1839406522 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=humidity
+++ local start=3555740534
+++ local end=3561781276
++++ grep -Eo 'humidity-to-[[:alpha:]]+'
+++ local map=humidity-to-location
+++ [[ -z humidity-to-location ]]
++++ cut -d- -f3
+++ local destination=location
+++ local finished=false
++++ sort -nk2
+++ read destination_map start_map range
+++ [[ -z '' ]]
+++ continue
+++ read destination_map start_map range
+++ [[ -z 561533 ]]
+++ local end_map=561532
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 922927950 ]]
+++ local end_map=923489482
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 565631070 ]]
+++ local end_map=1489120552
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277858250 ]]
+++ local end_map=1766978802
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 483883727 ]]
+++ local end_map=2250862529
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 61410922 ]]
+++ local end_map=2312273451
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 277871332 ]]
+++ local end_map=2590144783
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 734802140 ]]
+++ local end_map=3324946923
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 364728727 ]]
+++ local end_map=3689675650
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ local diff=230793610
+++ local new_start=714677337
+++ ((  end <= end_map  ))
+++ local diff2=6040742
+++ local new_end=720718079
+++ finished=true
+++ find_mapping location 714677337 720718079 humidity 3555740534 3561781276 temperature 3872101950 3890580431 light 2263902629 2305441727 water 1780224111 1839406522 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=location
+++ local start=714677337
+++ local end=720718079
++++ grep -Eo 'location-to-[[:alpha:]]+'
+++ local map=
+++ [[ -z '' ]]
+++ echo location 714677337 720718079 humidity 3555740534 3561781276 temperature 3872101950 3890580431 light 2263902629 2305441727 water 1780224111 1839406522 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ return
+++ break
+++ true
+++ break
+++ true
+++ end=3324946923
+++ read destination_map start_map range
+++ [[ -z 137121725 ]]
+++ local end_map=2459541634
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 298395440 ]]
+++ local end_map=2757937074
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 227055902 ]]
+++ local end_map=2984992976
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 69188559 ]]
+++ local end_map=3054181535
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ read destination_map start_map range
+++ [[ -z 321275112 ]]
+++ local end_map=3375456647
+++ ((  end < start_map  ))
+++ ((  start >= start_map && start <= end_map  ))
+++ ((  end >= start_map && end <= end_map  ))
+++ local diff=270765387
+++ local new_start=2286963246
+++ local new_end=2557728633
+++ find_mapping temperature 2286963246 2557728633 light 2263902629 2305441727 water 1780224111 1839406522 fertilizer 2310179839 2412881273 soil 3080508980 3183210414 seed 2478641666 2618467168
+++ local source=temperature
+++ local start=2286963246
+++ local end=2557728633
++++ grep -Eo 'temperature-to-[[:alpha:]]+'
+++ local map=temperature-to-humidity
+++ [[ -z temperature-to-humidity ]]
++++ cut -d- -f3
